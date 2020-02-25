@@ -1,7 +1,7 @@
 {
   "name": "photo-rename",
   "bin": "./index.js",
-  "version": "1.0.0",
+  "version": "0.0.1",
   "description": "Utility for re-naming JPG files based on datetime taken",
   "main": "index.js",
   "scripts": {
