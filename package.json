@@ -24,7 +24,7 @@
   "homepage": "https://github.com/entrotech/node-photo-rename#readme",
   "dependencies": {
     "exif-parser": "^0.1.12",
-    "moment": "^2.24.0",
+    "moment": "^2.29.4",
     "yargs": "^15.1.0"
   }
 }
